@@ -6,13 +6,8 @@
   //while(count<=100){
     //console.log(count);
     //count+=10;
-  //}
-//let x =3;
-//for(x=3, x<=99,x=x+3){
-console.log(`${x} hello`);
+console.log(`${x} hi`);
 for(let x=20; x>0; x--){
 for(let x=20; x>0; x-
-
-
-  
+  console.console.log('hi');
 }
