@@ -9,5 +9,5 @@
 console.log(`${x} hi`);
 for(let x=20; x>0; x--){
 for(let x=20; x>0; x-
-  console.console.log('hi');
+  console.console.log('hello');
 }
